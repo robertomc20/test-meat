@@ -1,0 +1,26 @@
+.primary-font {
+  font-family: 'Caveat';
+}
+
+.secondary-font {
+  font-family: 'Open Sans';
+}
+
+.header-text {
+  font-size: 70px;
+  color: #3F454A;
+  margin-left: 90px;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+}
+
+.article-title {
+  font-size: 70px;
+  color: #3F454A;
+  /* display: inline-block; */
+  /* vertical-align: middle; */
+  /* position: absolute; */
+  /* justify-content: center; */
+  /* align-items: center; */
+}
