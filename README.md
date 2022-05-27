@@ -1,5 +1,4 @@
 # test-meat
-Test para MEAT
 
 #### IMPORTANTE
 IR A RAMA DE MASTER PARA VER DESARROLLO
